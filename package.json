@@ -1,0 +1,16 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "start": "node Main"
+  },
+  "keywords": [],
+  "author": "Arash Alaei",
+  "license": "ISC",
+  "dependencies": {
+    "danfojs-node": "^0.2.2",
+    "ml-regression": "^5.0.0"
+  }
+}
